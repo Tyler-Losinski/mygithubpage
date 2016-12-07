@@ -1,0 +1,35 @@
+h1 {
+    font-family: Verdana, Geneva, sans-serif;
+}
+h1:hover{
+    color: cornflowerblue;
+}
+.level-bar-inner:hover{
+    background: green;
+}
+.project-title > a:hover{
+    color: blue;
+    font-weight: bold;
+    font-size: 16px;
+}
+.time:hover{
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+}
+.section-title{
+    font-size: 14px;
+}
+.profile{
+    width: 100px;
+    height: 100px;
+}
+.degree{
+    font-size: 13px;
+}
+div > p{
+    font-size: 16px;
+}
+#side_titles{
+    font-size: 18px;
+}
